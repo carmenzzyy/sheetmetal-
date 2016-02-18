@@ -4,3 +4,4 @@
 
 ### February 17th, 2016
 <p>Our entire class finally did a pus to GitHub. :-)</p
+## February 18th Clock-ins 
